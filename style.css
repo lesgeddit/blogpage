@@ -1,0 +1,27 @@
+header {
+  background-color: #f2f2f2;
+}
+header nav {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+header a {
+  text-decoration: none;
+  color: black;
+}
+header h1 {
+  font-size: 36px;
+}
+.container {
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Montserrat", sans-serif;
+}
+.main-sec {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10%;
+}
